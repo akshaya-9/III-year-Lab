@@ -9,4 +9,4 @@ i.char count ii.char stuffing iii.bit stuffing
 4.
 
 #### Output
-![output](screenshot (8).png)
+![output](intro.png)
