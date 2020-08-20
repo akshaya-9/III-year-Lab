@@ -12,4 +12,4 @@ i.char count ii.char stuffing iii.bit stuffing
 
 
 #### Output
-![output](Exp1Output.png)
+![output](CharacterCountOutput.png)
