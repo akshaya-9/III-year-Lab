@@ -6,7 +6,7 @@ int main()
 char data[20][20];
 int n;
 int i;
-char tmp[20];
+
 
 printf("Enter the number of frames:");
 scanf("%d",&n);
