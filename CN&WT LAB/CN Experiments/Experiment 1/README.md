@@ -1,6 +1,6 @@
 # Experment 1
 ## Aim
-to imlement data link layer framing techniques such as 
+to implement data link layer framing techniques such as 
 i.char count ii.char stuffing iii.bit stuffing
 ### Procedure for Character Count
 1. First scan the number of frames required.
