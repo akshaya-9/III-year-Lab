@@ -25,6 +25,7 @@ i.char count ii.char stuffing iii.bit stuffing
 
 
 #### Output
+
 ![output](CharacterCountOutput.png)
 ![output](bitStuffing.png)
 ![output](CharacterStuffing.png)
