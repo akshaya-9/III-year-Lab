@@ -16,9 +16,7 @@ for(i=0;i<n;i++)
   printf("Frames %d:\n",i+1);
     scanf("%s",&data[i]);
 }
-for(i=0;i<n;i++){
-    tmp[i] =strlen(data[i]);
-}
+
 printf("Sender Frames: \n");
 for( i=0;i<n;i++){
  printf("Frame %d:%d%s\n",i+1,(strlen(data[i])+1),data[i]);
