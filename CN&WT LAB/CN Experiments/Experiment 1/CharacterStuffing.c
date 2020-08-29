@@ -3,8 +3,8 @@
 int main()
 {
  int i=0,count=0,n,j=0;
- char data[80];
- char temp[80];
+ char data[100];
+ char temp[100];
  printf("Enter Data: ");
  scanf("%s",data);
  printf("AT SENDER \n");
