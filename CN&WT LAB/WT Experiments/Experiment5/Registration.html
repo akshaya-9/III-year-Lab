@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>RegistrationPage</title>
+	<link rel="stylesheet" type="text/css" href="Registration.css">
+
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+</head>
+<body >
+
+<div class="container">
+<form>
+	<div class="heading ">
+   <b class="headr fon">REGISTER</b>
+</div>
+	<div class="marg">
+<label for="User Name" class="fon"><b>User Name</b></label><br>
+  <input class="inputs" type="text" placeholder="Enter User Name" name="UserName" id="UserName" required>
+</div>
+<br>
+<div class="marg">
+<label for="First Name" class="fon"><b>First Name</b></label><br>
+  <input class="inputs" type="text" placeholder="Enter First Name" name="FirstName" id="FirstName" required>
+</div>
+<br>
+<div class="marg">
+<label for="Last Name" class="fon"><b>Last Name</b></label><br>
+  <input  class="inputs" type="text" placeholder="Enter Last Name" name="LastName" id="LastName" required></div>
+<br>
+<div class="marg">
+ <label for="email" class="fon"><b>Email</b></label><br>
+  <input class="inputs" type="email" placeholder="Enter Email" name="email" id="email" required></div>
+<br>
+<div class="marg">
+<label for="Mobile" class="fon"><b>Mobile</b></label><br>
+  <input class="inputs" type="text" placeholder="Enter Mobile Number" name="Mobile" id="Mobile" required></div>
+<br>
+<div class="marg">
+   <label for="psw" class="fon"><b>Password</b></label><br>
+    <input class="inputs" type="password" placeholder="Enter Password" name="psw" id="psw" ></div>
+<br>
+<div class="marg">
+ <label for="pswR" class="fon"><b>Re-enter Password</b></label><br>
+ <input  class="inputs" type="password" placeholder="Re-enter Password" name="psw-re" id="psw-re" required></div>
+<br>
+<div class="marg">
+	<label for="address" class="fon"><b>Address</b></label><br>
+<textarea id="address" name="address" rows="4" cols="60">
+  </textarea>
+</div>
+<div class="marg">
+<label for="gender" class="fon"><b>Gender</b></label><br>
+ <input type="radio" id="male" name="gender" value="male">
+  <label for="male">Male</label>
+  <input type="radio" id="female" name="gender" value="female">
+  <label for="female">Female</label></div>
+  <br>
+  <div class="marg">
+<label for="hobby" class="fon"><b>Hobbies</b></label><br>
+            <input type="checkbox" name="hobby" value="sports" id="sport">
+            <label for="sport">Sports</label>
+            <input type="checkbox" name="hobby" value="music" id="music">
+            <label for="music">Music</label>
+            <input type="checkbox" name="hobby" value="reading" id="read">
+              <label for="read">Reading</label>
+              </div>
+<br>
+<div class="marg">
+   <label for="DOB" class="fon"><b>Date Of Birth</b></label><br>
+  <input type="date" id="DOB" name="DOB">
+  </div>
+  <br>
+  <div class="marg">
+  	 <label for="img" class="fon"><b>Select Image</b></label>
+  <input type="file" id="img" name="img" accept="image/*">
+  </div>
+  <div>
+    <button type="submit" class="registerbtn">Register</button>
+</div>
+</form>
+</div>
+</body>
+</html>
