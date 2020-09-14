@@ -3,7 +3,7 @@
 ## Aim of the Experiment
 Write a program to compute CRC code for the polynomials CRC-12,CRC-16 and CRC CCIP.
 
-### step by step procedure of experiment
+### Procedure of experiment
 At sender side,
 Calculation Of CRC At Sender Side-
 
