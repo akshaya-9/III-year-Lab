@@ -1,5 +1,6 @@
 # Aim
-Create a registration page,home page ,login page using HTML,CSS
+Create a registration page, home page ,login page using HTML,CSS,Bootstrap
+
 ## OutPut
 ## Registration Page
 ![output](RegistrationHtml.png)
