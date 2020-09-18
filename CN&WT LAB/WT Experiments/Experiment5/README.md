@@ -1,5 +1,5 @@
 # Aim
-Create a registration page, home page ,login page using HTML,CSS,Bootstrap
+Create a registration page, home page ,login page using HTML,CSS,Bootstrap.
 
 ## OutPut
 ## Registration Page
