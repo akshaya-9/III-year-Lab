@@ -1,3 +1,3 @@
 
-![output](C:\Users\ylali\OneDrive\Pictures\Screenshots\Screenshot2.png)
-![output](C:\Users\ylali\OneDrive\Pictures\Screenshots\Screenshot1.png)
+![output](OUTPUT2.png)
+![output](OUTPUT1.png)
