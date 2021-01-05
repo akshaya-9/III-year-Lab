@@ -1,2 +1,2 @@
-![Output at mysql](Screenshot (186).png)
-![Output at mysql](Screenshot (187).png)
+![Output at mysql](Screenshot1.png)
+![Output at console](Screenshot2.png)
