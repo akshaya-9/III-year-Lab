@@ -17,4 +17,4 @@ Continue step2 until T contains n-1 edges where n is the number of  vertices of 
  
  #### Broadcast tree
 
-![output](Broadcast_tree.png)
+![output](broadcast_tree.png)
