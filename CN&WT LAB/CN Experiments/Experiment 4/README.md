@@ -41,4 +41,4 @@ distance[w]+cost[w][v])
 
 
 ## Output
-![output](Dijkstras_output.png)
+![output](Dijkstra_output.png)
