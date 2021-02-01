@@ -36,7 +36,7 @@ void dijkstra(int A[MAX][MAX],int n,int startnode)
 			if(A[i][j]==0)
 				cost[i][j]=INFINITY;
 			else
-				cost[i][j]=G[i][j];
+				cost[i][j]=A[i][j];
 
 	//initialize pred[],distance[] and visited[]
 	for(i=0;i<n;i++)
