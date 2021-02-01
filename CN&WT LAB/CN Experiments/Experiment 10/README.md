@@ -27,12 +27,15 @@
 7.Click on statistics and choose Capture file statistics,packet lengths,I/O graphs.
 
 ## Output
-Starting Wire shark and viewing captured Traffic
+### Starting Wire shark and viewing captured Traffic
 ![output](wireshark.png)
-Analysis and statistics
-Captured file statistics
+
+## Analysis and statistics
+### Captured file statistics
 ![output](File_Capture_Prop.png)
-Packet Lengths
+
+### Packet Lengths
 ![output](Packet_length.png)
-I/O graphs
-![output](IO_Graph.png)
+
+### I/O graphs
+![output](IO_Graphs.png)
