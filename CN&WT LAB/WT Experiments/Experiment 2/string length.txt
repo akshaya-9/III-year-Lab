@@ -1,0 +1,10 @@
+<?php
+        //Enter your code here, enjoy!
+
+$a = "akshaya";
+
+echo strlen($a);
+?>
+
+Output:
+7
